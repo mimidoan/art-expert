@@ -1,23 +1,23 @@
 {
-  "name": "javascript-starter",
+  "name": "art-expert",
   "version": "1.0.0",
-  "description": "Clarifai V2 JavaScript Starter",
+  "description": "Application to help query through dataset of volunteers",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Clarifai/javascript-starter.git"
+    "url": "git+https://github.com/mimidoan/civicaction.git"
   },
-  "author": "",
-  "license": "Apache-2.0",
+  "author": "mimidoan",
+  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Clarifai/javascript-starter/issues"
+    "url": "https://github.com/mimidoan/civicaction/issues"
   },
-  "homepage": "https://github.com/Clarifai/javascript-starter#readme",
+  "homepage": "https://github.com/mimidoan/civicaction#readme",
   "dependencies": {
-    "clarifai": "^2.0.18",
-    "filereader": "^0.10.3"
+    "ejs": "^2.5.6",
+    "express": "^4.15.3"
   }
 }
